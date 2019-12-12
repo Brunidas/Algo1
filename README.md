@@ -1,7 +1,7 @@
 ### PROGRAMA DE ASIGNATURA
  
-### Facultad de Ingeniería - Universidad Nacional de Cuyo | 2019
 #  Algoritmos y Estructuras de Datos I 
+### Facultad de Ingeniería - Universidad Nacional de Cuyo | 2019
 
 ## OBJETIVOS
 Al finalizar el curso los alumnos conocerán:
