@@ -1,0 +1,2 @@
+# Algo1
+Conocer los tipos de datos primitivos y sus operaciones.  Distinguir entre tipo de dato y objeto.  Conocer las acciones básicas de E/S de datos.  Emplear las estructuras de control básicas: secuencial, condicional e iterativa.  Identificar los tipos de datos compuestos, arrays y registros, así como sus operaciones.  Aplicar algoritmos de ordenación básicos y de búsqueda.  Resolver problemas mediante algoritmos recursivos.
